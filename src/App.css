@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: pink;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 25px;
+}
+
+button:hover {
+  background-color: #efefef;
+  color:#ff6666;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-list li {
+  margin-bottom: 10px;
+}
+
+.todo-list button {
+  background-color: #ff6666;
+}
+
+.todo-list button:hover{
+  background-color: #fb0404;
+  color: white;
+}
+
+h3{
+  color: rgb(239, 170, 208);
+  margin-bottom: 20px;
+}
